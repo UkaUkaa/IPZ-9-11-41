@@ -1,0 +1,17 @@
+C:\Users\Funny\source\repos\TestForm\TestForm\bin\Debug\net6.0-windows\TestForm.exe
+C:\Users\Funny\source\repos\TestForm\TestForm\bin\Debug\net6.0-windows\TestForm.deps.json
+C:\Users\Funny\source\repos\TestForm\TestForm\bin\Debug\net6.0-windows\TestForm.runtimeconfig.json
+C:\Users\Funny\source\repos\TestForm\TestForm\bin\Debug\net6.0-windows\TestForm.dll
+C:\Users\Funny\source\repos\TestForm\TestForm\bin\Debug\net6.0-windows\TestForm.pdb
+C:\Users\Funny\source\repos\TestForm\TestForm\obj\Debug\net6.0-windows\TestForm.csproj.AssemblyReference.cache
+C:\Users\Funny\source\repos\TestForm\TestForm\obj\Debug\net6.0-windows\TestForm.Form1.resources
+C:\Users\Funny\source\repos\TestForm\TestForm\obj\Debug\net6.0-windows\TestForm.csproj.GenerateResource.cache
+C:\Users\Funny\source\repos\TestForm\TestForm\obj\Debug\net6.0-windows\TestForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Funny\source\repos\TestForm\TestForm\obj\Debug\net6.0-windows\TestForm.AssemblyInfoInputs.cache
+C:\Users\Funny\source\repos\TestForm\TestForm\obj\Debug\net6.0-windows\TestForm.AssemblyInfo.cs
+C:\Users\Funny\source\repos\TestForm\TestForm\obj\Debug\net6.0-windows\TestForm.csproj.CoreCompileInputs.cache
+C:\Users\Funny\source\repos\TestForm\TestForm\obj\Debug\net6.0-windows\TestForm.dll
+C:\Users\Funny\source\repos\TestForm\TestForm\obj\Debug\net6.0-windows\refint\TestForm.dll
+C:\Users\Funny\source\repos\TestForm\TestForm\obj\Debug\net6.0-windows\TestForm.pdb
+C:\Users\Funny\source\repos\TestForm\TestForm\obj\Debug\net6.0-windows\TestForm.genruntimeconfig.cache
+C:\Users\Funny\source\repos\TestForm\TestForm\obj\Debug\net6.0-windows\ref\TestForm.dll
